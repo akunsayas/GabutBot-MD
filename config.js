@@ -4,18 +4,18 @@ const chalk = require('chalk')
 global.apikey = 'isi apikey lu'
 global.rosekey = '-' //https://api.itsrose.life
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'ɢᴀʙᴜᴛʙᴏᴛ-ʀᴇʙᴏʀɴ'
-global.namaowner = 'ShinySebastian'
+global.namabot = 'Pstar7•Bot'
+global.namaowner = 'Pstar7'
 
 //—————「 Setting Owner 」—————//
-global.owner = '628116646665'
-global.nomorlu = '6281932309239'
-global.ownernomer = ["628116646665"]
-global.premium = ['628116646665']
+global.owner = '62895416479539'
+global.nomorlu = '6283875680655'
+global.ownernomer = ["62895416479539"]
+global.premium = ['62895416479539']
 
 //—————「 Set Wm 」—————//
 global.packname = 'GabutBot-Reborn'
-global.author = 'ShinySebastian'
+global.author = 'Pstar7'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -36,7 +36,7 @@ prem: '*Premium only!! Silahkan beli premium di nomor owner!*',
 //—————「 Set Limit 」—————//
 global.limitawal = {
     premium: "Infinity",
-    free: 25,
+    free: 10,
 }
 
 //—————「 Set Image 」—————//
